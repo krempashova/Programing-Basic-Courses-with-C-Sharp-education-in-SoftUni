@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P06Cinema TicketsNesteedLoops/1.0.0": {
+        "runtime": {
+          "P06Cinema TicketsNesteedLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P06Cinema TicketsNesteedLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

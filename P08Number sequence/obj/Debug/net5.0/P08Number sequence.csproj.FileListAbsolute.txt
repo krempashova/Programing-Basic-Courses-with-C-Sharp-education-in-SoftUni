@@ -1,0 +1,16 @@
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.exe
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.deps.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.runtimeconfig.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\bin\Debug\net5.0\P08Number sequence.pdb
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\refint\P08Number sequence.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.pdb
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\P08Number sequence.genruntimeconfig.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P08Number sequence\obj\Debug\net5.0\ref\P08Number sequence.dll

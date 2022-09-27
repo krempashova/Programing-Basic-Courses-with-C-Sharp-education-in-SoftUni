@@ -1,0 +1,16 @@
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.exe
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.deps.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.runtimeconfig.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\bin\Debug\net5.0\P09Ski Trip.pdb
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\refint\P09Ski Trip.dll
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.pdb
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\P09Ski Trip.genruntimeconfig.cache
+C:\Users\Martin\source\repos\ProgramingBasicMay2022\P09Ski Trip\obj\Debug\net5.0\ref\P09Ski Trip.dll
