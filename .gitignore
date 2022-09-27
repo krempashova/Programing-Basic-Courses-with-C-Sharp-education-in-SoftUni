@@ -1,0 +1,210 @@
+
+*.json
+*.dll
+*.pdb
+*.exe
+*.cache
+*.txt
+*.BuildWithSkipAnalyzers
+*.csproj
+*.editorconfig
+*.targets
+*.sln
+*.props
+P01Cinema/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Cinema/obj/Debug/net5.0/P01Cinema.AssemblyInfo.cs
+P01ClOCK Nested Loops/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01ClOCK Nested Loops/obj/Debug/net5.0/P01ClOCK Nested Loops.AssemblyInfo.cs
+P01DayOfWeek/obj/Debug/net5.0/P01DayOfWeek.AssemblyInfo.cs
+P01DayOfWeek/P01 DayOfWeek.cs
+P01EXAM/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01EXAM/obj/Debug/net5.0/P01EXAM.AssemblyInfo.cs
+P01EXAM/p1exam.cs
+P01EXAMPB/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01EXAMPB/obj/Debug/net5.0/P01EXAMPB.AssemblyInfo.cs
+P01EXAMPB/p01EXAMPB.cs
+P01EXELENT/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01EXELENT/obj/Debug/net5.0/P01EXELENT.AssemblyInfo.cs
+P01MOREEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01MOREEX/obj/Debug/net5.0/P01MOREEX.AssemblyInfo.cs
+P01Num1to100/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Num1to100/obj/Debug/net5.0/P01Num1to100.AssemblyInfo.cs
+P01Number PyramidNesteedLoopex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Number PyramidNesteedLoopex/obj/Debug/net5.0/P01Number PyramidNesteedLoopex.AssemblyInfo.cs
+P01Numbers Ending in 7EXERCISE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Numbers Ending in 7EXERCISE/obj/Debug/net5.0/P01Numbers Ending in 7EXERCISE.AssemblyInfo.cs
+P01Old BooksWHILEEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Old BooksWHILEEX/obj/Debug/net5.0/P01Old BooksWHILEEX.AssemblyInfo.cs
+P01PC Store/obj/Debug/net5.0/P01PC Store.AssemblyInfo.cs
+P01Sum Seconds/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P01Sum Seconds/obj/Debug/net5.0/P01Sum Seconds.AssemblyInfo.cs
+P02 Multiplication TableNesteedLoop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02 Multiplication TableNesteedLoop/obj/Debug/net5.0/P02 Multiplication TableNesteedLoop.AssemblyInfo.cs
+P02Bonus/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Bracelet Stand/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Bracelet Stand/obj/Debug/net5.0/P02Bracelet Stand.AssemblyInfo.cs
+P02Equal Sums Even Odd PositionNesteedLoopex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Equal Sums Even Odd PositionNesteedLoopex/obj/Debug/net5.0/P02Equal Sums Even Odd PositionNesteedLoopex.AssemblyInfo.cs
+P02Exam PreparationWHILEEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Exam PreparationWHILEEX/obj/Debug/net5.0/P02Exam PreparationWHILEEX.AssemblyInfo.cs
+P02EXAM/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02EXAM/obj/Debug/net5.0/P02EXAM.AssemblyInfo.cs
+P02EXAM/Program.cs
+P02Half Sum Element/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Half Sum Element/obj/Debug/net5.0/P02Half Sum Element.AssemblyInfo.cs
+P02Half Sum ElementEXERCISE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Half Sum ElementEXERCISE/obj/Debug/net5.0/P02Half Sum ElementEXERCISE.AssemblyInfo.cs
+P02Half Sum ElementEXERCISE/obj/Debug/net5.0/P04Cleverlily.AssemblyInfo.cs
+P02Summer Outfit/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02Summer Outfit/obj/Debug/net5.0/P02Summer Outfit.AssemblyInfo.cs
+P02WHILEEXERSICENEW/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02WHILEEXERSICENEW/obj/Debug/net5.0/P02WHILEEXERSICENEW.AssemblyInfo.cs
+P02WorkingDay/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P02WorkingDay/obj/Debug/net5.0/P02WorkingDay.AssemblyInfo.cs
+P03. Sum Prime Non PrimeNesteedLoopEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03. Sum Prime Non PrimeNesteedLoopEX/obj/Debug/net5.0/P03. Sum Prime Non PrimeNesteedLoopEX.AssemblyInfo.cs
+P03. Sum Prime Non PrimeNesteedLoopEX/Program.cs
+P03AnimalType/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03AnimalType/obj/Debug/net5.0/P03AnimalType.AssemblyInfo.cs
+P03CombinationNesteedLopp/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03CombinationNesteedLopp/obj/Debug/net5.0/P03CombinationNesteedLopp.AssemblyInfo.cs
+P03Excursion Calculator/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Excursion Calculator/obj/Debug/net5.0/P03Excursion Calculator.AssemblyInfo.cs
+P03Histogram/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Histogram/obj/Debug/net5.0/P03Histogram.AssemblyInfo.cs
+P03NewHouse/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03NewHouse/obj/Debug/net5.0/P03NewHouse.AssemblyInfo.cs
+P03Sum NumbersWHILE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Sum NumbersWHILE/obj/Debug/net5.0/P03Sum NumbersWHILE.AssemblyInfo.cs
+P03Sum Prime Non PrimeNesteedLopp/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Sum Prime Non PrimeNesteedLopp/obj/Debug/net5.0/P03Sum Prime Non PrimeNesteedLopp.AssemblyInfo.cs
+P03Time15seconds/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Time15seconds/obj/Debug/net5.0/P03Time15seconds.AssemblyInfo.cs
+P03Vacantion whileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P03Vacantion whileex/obj/Debug/net5.0/P03Vacantion whileex.AssemblyInfo.cs
+P04CleverLily/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04CleverLily/obj/Debug/net5.0/P04CleverLily.AssemblyInfo.cs
+P04Computer Firm/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Computer Firm/obj/Debug/net5.0/P04Computer Firm.AssemblyInfo.cs
+P04Fishing Boat/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Fishing Boat/obj/Debug/net5.0/P04Fishing Boat.AssemblyInfo.cs
+P04Sequence 2k+1WHILE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Sequence 2k+1WHILE/obj/Debug/net5.0/P04Sequence 2k+1WHILE.AssemblyInfo.cs
+P04Sum of Two NumbersNesteedloop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Sum of Two NumbersNesteedloop/obj/Debug/net5.0/P04Sum of Two NumbersNesteedloop.AssemblyInfo.cs
+P04ToyShop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04ToyShop/obj/Debug/net5.0/P04ToyShop.AssemblyInfo.cs
+P04Train The TrainersNESTEEDLOOP/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Train The TrainersNESTEEDLOOP/obj/Debug/net5.0/P04Train The TrainersNESTEEDLOOP.AssemblyInfo.cs
+P04Walking WHILEEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Walking WHILEEX/obj/Debug/net5.0/P04Walking WHILEEX.AssemblyInfo.cs
+P04Wrongpassword/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P04Wrongpassword/obj/Debug/net5.0/P04Wrongpassword.AssemblyInfo.cs
+P05 Account BalanceWHILE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05 Account BalanceWHILE/obj/Debug/net5.0/P05 Account BalanceWHILE.AssemblyInfo.cs
+P05Cake whileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Cake whileex/obj/Debug/net5.0/P06Cake whileex.AssemblyInfo.cs
+P05Cake whileex/Program.cs
+P05Coins whileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Coins whileex/obj/Debug/net5.0/P05Coins whileex.AssemblyInfo.cs
+P05Coinswhileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Coinswhileex/obj/Debug/net5.0/P05Coinswhileex.AssemblyInfo.cs
+P05GodzilaVsKong/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05GodzilaVsKong/obj/Debug/net5.0/P05GodzilaVsKong.AssemblyInfo.cs
+P05Hair Salon/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Hair Salon/obj/Debug/net5.0/P05Hair Salon.AssemblyInfo.cs
+P05Jorney/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Jorney/obj/Debug/net5.0/P05Jorney.AssemblyInfo.cs
+P05Number100/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Number100/obj/Debug/net5.0/P05Number100.AssemblyInfo.cs
+P05Salaryexersice/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Salaryexersice/obj/Debug/net5.0/P05Salaryexersice.AssemblyInfo.cs
+P05SmallShop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05SmallShop/obj/Debug/net5.0/P05SmallShop.AssemblyInfo.cs
+P05Special NumbersNESTEEDLOOPS/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Special NumbersNESTEEDLOOPS/obj/Debug/net5.0/P05Special NumbersNESTEEDLOOPS.AssemblyInfo.cs
+P05Traininglab/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05Traininglab/obj/Debug/net5.0/P05Traininglab.AssemblyInfo.cs
+P05TravellingNesteedlopp/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P05TravellingNesteedlopp/obj/Debug/net5.0/P05TravellingNesteedlopp.AssemblyInfo.cs
+P06BuildingNesteedLopps/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06BuildingNesteedLopps/obj/Debug/net5.0/P06BuildingNesteedLopps.AssemblyInfo.cs
+P06Cake whileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Cake whileex/obj/Debug/net5.0/P06Cake whileex.AssemblyInfo.cs
+P06Cinema TicketsNesteedLoops/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Cinema TicketsNesteedLoops/obj/Debug/net5.0/P06Cinema TicketsNesteedLoops.AssemblyInfo.cs
+P06ConcatenateData/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06ConcatenateData/obj/Debug/net5.0/P06ConcatenateData.AssemblyInfo.cs
+P06ConcatenateData/Program.cs
+P06FoodDelivery/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06FoodDelivery/obj/Debug/net5.0/P06FoodDelivery.AssemblyInfo.cs
+P06LectionConcatenate/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06LectionConcatenate/obj/Debug/net5.0/P06LectionConcatenate.AssemblyInfo.cs
+P06Max NumberWHILE/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Max NumberWHILE/obj/Debug/net5.0/P06Max NumberWHILE.AssemblyInfo.cs
+P06Multiply Table/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Multiply Table/obj/Debug/net5.0/P06Multiply Table.AssemblyInfo.cs
+P06NumberinRange/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06NumberinRange/obj/Debug/net5.0/P06NumberinRange.AssemblyInfo.cs
+P06Operations Between Numbers/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Operations Between Numbers/obj/Debug/net5.0/P06Operations Between Numbers.AssemblyInfo.cs
+P06OscarsEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06OscarsEX/obj/Debug/net5.0/P06OscarsEX.AssemblyInfo.cs
+p06sped/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+p06sped/obj/Debug/net5.0/p06sped.AssemblyInfo.cs
+P06Swimingrecord/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P06Swimingrecord/obj/Debug/net5.0/P06Swimingrecord.AssemblyInfo.cs
+p07areaS/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+p07areaS/obj/Debug/net5.0/p07areaS.AssemblyInfo.cs
+P07Hotel Room/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Hotel Room/obj/Debug/net5.0/P07Hotel Room.AssemblyInfo.cs
+P07Min Number while/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Min Number while/obj/Debug/net5.0/P07Min Number while.AssemblyInfo.cs
+P07Projects Creation/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Projects Creation/obj/Debug/net5.0/P07Projects Creation.AssemblyInfo.cs
+P07Shopping/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Shopping/obj/Debug/net5.0/P07Shopping.AssemblyInfo.cs
+P07Sum Numbers/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Sum Numbers/obj/Debug/net5.0/P07Sum Numbers.AssemblyInfo.cs
+P07Trekking Mania/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07Trekking Mania/obj/Debug/net5.0/P07Trekking Mania.AssemblyInfo.cs
+P07WorkingHours/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P07WorkingHours/obj/Debug/net5.0/P07WorkingHours.AssemblyInfo.cs
+P08Backetballequpmant/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08Backetballequpmant/obj/Debug/net5.0/P08Backetballequpmant.AssemblyInfo.cs
+P08CinemaTickets/obj/Debug/net5.0/P08CinemaTickets.AssemblyInfo.cs
+P08CinemaTickets/Program.cs
+P08Graduation/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08Graduation/obj/Debug/net5.0/P08Graduation.AssemblyInfo.cs
+P08LunchBreak/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08LunchBreak/obj/Debug/net5.0/P08LunchBreak.AssemblyInfo.cs
+P08Moving whileex/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08Moving whileex/obj/Debug/net5.0/P08Moving whileex.AssemblyInfo.cs
+P08Number sequence/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08Number sequence/obj/Debug/net5.0/P08Number sequence.AssemblyInfo.cs
+P08On Time for the Exam/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08On Time for the Exam/obj/Debug/net5.0/P08On Time for the Exam.AssemblyInfo.cs
+P08OnTimeForexamNEW/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08OnTimeForexamNEW/obj/Debug/net5.0/P08OnTimeForexamNEW.AssemblyInfo.cs
+P08PetShop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08PetShop/obj/Debug/net5.0/P08PetShop.AssemblyInfo.cs
+P08Tennis RanklistEX/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P08Tennis RanklistEX/obj/Debug/net5.0/P08Tennis RanklistEX.AssemblyInfo.cs
+P09FishTank/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09FishTank/obj/Debug/net5.0/P09FishTank.AssemblyInfo.cs
+P09FruitShop/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09FruitShop/obj/Debug/net5.0/P09FruitShop.AssemblyInfo.cs
+P09Invalidnumber/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09Invalidnumber/obj/Debug/net5.0/P09Invalidnumber.AssemblyInfo.cs
+P09Left and Right Sum/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09Left and Right Sum/obj/Debug/net5.0/P09Left and Right Sum.AssemblyInfo.cs
+P09Ski Trip/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09Ski Trip/obj/Debug/net5.0/P09Ski Trip.AssemblyInfo.cs
+P09Yard Greening/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P09Yard Greening/obj/Debug/net5.0/P09Yard Greening.AssemblyInfo.cs
+P10Odd Even Sum/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P10Odd Even Sum/obj/Debug/net5.0/P10Odd Even Sum.AssemblyInfo.cs
+P12TradeComissions/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+P12TradeComissions/obj/Debug/net5.0/P12TradeComissions.AssemblyInfo.cs
+PB EXAMS EXIRSECE Series Calculator/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+PB EXAMS EXIRSECE Series Calculator/obj/Debug/net5.0/PB EXAMS EXIRSECE Series Calculator.AssemblyInfo.cs
